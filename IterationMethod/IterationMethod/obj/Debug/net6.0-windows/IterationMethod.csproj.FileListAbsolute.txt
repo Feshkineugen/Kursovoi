@@ -1,0 +1,17 @@
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.csproj.AssemblyReference.cache
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.Form1.resources
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.csproj.GenerateResource.cache
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.AssemblyInfoInputs.cache
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.AssemblyInfo.cs
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.csproj.CoreCompileInputs.cache
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\bin\Debug\net6.0-windows\IterationMethod.exe
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\bin\Debug\net6.0-windows\IterationMethod.deps.json
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\bin\Debug\net6.0-windows\IterationMethod.runtimeconfig.json
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\bin\Debug\net6.0-windows\IterationMethod.dll
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\bin\Debug\net6.0-windows\IterationMethod.pdb
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.dll
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\refint\IterationMethod.dll
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.pdb
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\IterationMethod.genruntimeconfig.cache
+C:\Users\feshk\source\repos\IterationMethod\IterationMethod\obj\Debug\net6.0-windows\ref\IterationMethod.dll
